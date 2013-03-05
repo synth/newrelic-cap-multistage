@@ -5,12 +5,12 @@ Quick recipe to use newrelic with capistrano in a multistaged setup
 
 =======================
 
-# 
-# = Capistrano newrelic.rb task
-#
-# Provides a couple of tasks for creating the newreclic.yml
-# in a multistaged environment 
-# 
+
+Capistrano newrelic.rb task
+
+  Provides a couple of tasks for creating the newreclic.yml
+  in a multistaged environment 
+ 
 
     namespace :deploy do
 
